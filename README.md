@@ -17,7 +17,7 @@
 -->
 ```
 I am Mostafa Abdelhady, I work as a FrontEnd developer, 🧑‍💻
-use JavaScript language with the wonderful framework Angular 
+use JavaScript language with the wonderful framework React 
 make web applications and I like to create codes, 
 always look for everything that is new in the world of technology, 
 I like to be the best always ❤️.
