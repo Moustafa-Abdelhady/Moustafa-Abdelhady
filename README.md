@@ -13,18 +13,15 @@
 <h2 align="left">🧑‍💻 About me :</h2>
 
 ###
-
 <div align="left">
   <img height="200" src="https://camo.githubusercontent.com/67708b96447bc1f55b984522ef007664ce1054e4f2cd1dd149c856ac341ebf9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966"  />
 </div>
 
 ###
-
-<h2 align="left">🛠️ Languages and Tools :</h2>
+<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> using Dart language with the wonderful framework Flutter <br> makes mobile applications ,<br> use JavaScript language with the wonderful framework React <br>make web applications <br> and I like to create codes,<br>🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
 
 ###
-
-<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> using Dart language with the wonderful framework Flutter <br> makes mobile applications ,<br> use JavaScript language with the wonderful framework React <br>make web applications <br> and I like to create codes,<br>🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
+<h2 align="left">🛠️ Languages and Tools :</h2>
 
 ###
 
@@ -41,6 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,6 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
