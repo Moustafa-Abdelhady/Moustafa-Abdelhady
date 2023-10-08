@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">Mostafa-Abdelhady</p>
+<h3 align="left">Mostafa-Abdelhady</h3>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/67708b96447bc1f55b984522ef007664ce1054e4f2cd1dd149c856ac341ebf9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966"  />
-</div>
+<p align="left">statues : Aspire to inspire before we expire</p>
 
 ###
 
@@ -16,11 +14,17 @@
 
 ###
 
-<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻<br>[Flutter , React] , using Dart language with the wonderful framework Flutter makes mobile applications , use JavaScript language with the wonderful framework React <br>make web applications  and I like to create codes,🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
+<div align="left">
+  <img height="200" src="https://camo.githubusercontent.com/67708b96447bc1f55b984522ef007664ce1054e4f2cd1dd149c856ac341ebf9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966"  />
+</div>
 
 ###
 
 <h2 align="left">🛠️ Languages and Tools :</h2>
+
+###
+
+<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻<br>[Flutter , React] , using Dart language with the wonderful framework Flutter makes mobile applications , use JavaScript language with the wonderful framework React <br>make web applications  and I like to create codes,🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
 
 ###
 
@@ -64,7 +68,11 @@
 
 ###
 
-<div align="left">
+<h2 align="left">Social Media  :</h2>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/moustafaabdelhady55/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -80,19 +88,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <img height="200" src="https://camo.githubusercontent.com/868734cbc4b5717f5588cf97e15756ec6f884a28f73069ef10140754e8cf41cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f7573746166612d416264656c68616479266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/Moustafa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=false" alt="Spotify recently played"  />
   </a>
