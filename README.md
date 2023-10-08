@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻<br>[Flutter , React] , using Dart language with the wonderful framework Flutter makes mobile applications , use JavaScript language with the wonderful framework React <br>make web applications  and I like to create codes,🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
+<p align="left">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> using Dart language with the wonderful framework Flutter <br> makes mobile applications ,<br> use JavaScript language with the wonderful framework React <br>make web applications <br> and I like to create codes,<br>🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
 
 ###
 
