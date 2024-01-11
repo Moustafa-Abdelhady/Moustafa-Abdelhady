@@ -92,6 +92,18 @@
 <p align="center"><picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> 🔥 My Stats :</p>
 
 ###
+<p align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-Abdelhady&theme=tokyonight_duo" alt="7oSkaaa" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Moustafa-Abdelhady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafa-Abdelhady&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moustafa-Abdelhady&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Moustafa-Abdelhady" height="230px"/>
+   
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+<br/>
+
+</p>
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/868734cbc4b5717f5588cf97e15756ec6f884a28f73069ef10140754e8cf41cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f7573746166612d416264656c68616479266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b"  />
