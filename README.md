@@ -1,12 +1,12 @@
-<h1 align="center">Hey, Welcome to my Github profile 👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hey, Welcome to my Github profile 👋 </h1>
 
 ###
 
-<h3 align="center">Mostafa-Abdelhady</h3>
+<h3 align="center">Mostafa-Abdelhady </h3>
 
 ###
 
-<p align="center">statues : Aspire to inspire before we expire</p>
+<p align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> statues :  Aspire to inspire before we expire</p>
 
 ###
 
@@ -27,7 +27,7 @@
 <p align="center">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> using Dart language with the wonderful framework Flutter <br> makes mobile applications ,<br> use JavaScript language with the wonderful framework React <br>make web applications <br> and I like to create codes,<br>🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
 
 ###
-<h2 align="center"><picture> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=70> </picture>  🛠️ Languages and Tools :</h2>
+<h2 align="center">🛠️ Languages and Tools :<picture> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=70> </picture>  </h2>
 
 ###
 
@@ -89,21 +89,21 @@
 
 ###
 
-<p align="center"><picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> 🔥 My Stats :</p>
+<p align="center"> 🔥 My Stats :<picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> </p>
 
 ###
-<p align="center">
+<div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-Abdelhady&theme=tokyonight_duo" alt="7oSkaaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-Abdelhady&theme=tokyonight_duo" alt="7oSkaaa" /> <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Moustafa-Abdelhady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafa-Abdelhady&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moustafa-Abdelhady&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Moustafa-Abdelhady" height="230px"/>
+	    <img alt="Moustafa-Abdelhady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafa-Abdelhady&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a><br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moustafa-Abdelhady&langs_count=4&show_icons=true&locale=en&theme=tokyonight" alt="Moustafa-Abdelhady"  width="400px" />
    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  </div>
 <br/>
 
-</p>
+
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/868734cbc4b5717f5588cf97e15756ec6f884a28f73069ef10140754e8cf41cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f7573746166612d416264656c68616479266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b"  />
@@ -112,7 +112,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Moustafa">
+  <a href="https://open.spotify.com/user/moustafa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
