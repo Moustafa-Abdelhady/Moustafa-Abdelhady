@@ -14,7 +14,7 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Moustafa+Abdelhady;Fresh+Graduate;Junior+Flutter+Developer;Competitive+Programmer;3x+ECPC+Finalist;Specialist+on+Codeforces;Division+2+on+Codechef+(3+Stars);Consistent+with+adding+more+to+my+knowledge"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=708A81&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Moustafa+Abdelhady;Junior+Flutter+Developer;Competitive+Programmer;Specialist+on+Codeforces;Consistent+with+adding+more+to+my+knowledge"></a>
 </p>
 <br/>
 <div align="center">
