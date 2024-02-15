@@ -106,13 +106,15 @@
 
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/868734cbc4b5717f5588cf97e15756ec6f884a28f73069ef10140754e8cf41cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f7573746166612d416264656c68616479266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b"  />
+  <img height="200" <h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{abora97}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/moustafa">
+  <a href="https://open.spotify.com/user/you">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
