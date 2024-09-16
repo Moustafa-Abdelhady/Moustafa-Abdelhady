@@ -22,7 +22,9 @@
 </p>
 <br/>
 <div align="center">
-  <img height="200"  width="500" src="https://camo.githubusercontent.com/a387e940e5436c5eeef6050ef5799195197f5b457847082856099f3e28d4e773/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" />
+<!--   <img height="200"  width="500" src="https://camo.githubusercontent.com/a387e940e5436c5eeef6050ef5799195197f5b457847082856099f3e28d4e773/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" /> -->
+<picture><img align="center" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmIxN3EwZWdhMGlnMmlya3h0czA3OXhvOTh2dXFiemFtdHd6Z3pjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PXqG2z6l6creiRuiDf/giphy.gif" width = 500px></picture>
+  <br/>
   <br/>
      <picture><img align="center" src = "https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width = 100px></picture>
 </div>
@@ -55,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
