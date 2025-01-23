@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="center">Mostafa-Abdelhady </h3>
+<h1 align="center">Mostafa Abdelhady </h1>
 
 ###
 
-<p align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> statues :  Aspire to inspire before we expire</p>
+<h2 align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> statues :  Aspire to inspire before we expire</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 	
-<p align="start"> - ✨ I am Mostafa Abdelhady<br> - 📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> -  using Dart language with the wonderful framework Flutter <br> -  makes mobile applications ,<br> -  use JavaScript language with the wonderful framework React <br> - make web applications <br> and I like to create codes,<br> - 🎯 always look for everything that is new in the world of technology 🎲, <br>  -  I like to be the best always ❤️.</p>
+<h2 align="start"> - ✨ I am Mostafa Abdelhady<br> - 📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> -  using Dart language with the wonderful framework Flutter <br> -  makes mobile applications ,<br> -  use JavaScript language with the wonderful framework React <br> - make web applications <br> and I like to create codes,<br> - 🎯 always look for everything that is new in the world of technology 🎲, <br>  -  I like to be the best always ❤️.</h2>
 </div>
 
 ###
@@ -132,7 +132,7 @@
  
 ###
    
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <h3>Note:</h3> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 	<br/>
 
  ###
@@ -140,11 +140,11 @@
 <div align="center">
   <h1 color=" rgb(127,255,0)">🐍 My Contribution Snack! 🍭</h1>
   
-  <a href="https://raw.githubusercontent.com/Moustafa-Abdelhady/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" target="_blank">
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" target="_blank">
     <img 
         alt="github contribution grid snake animation" 
         width="1200" 
-        src="https://raw.githubusercontent.com/Moustafa-Abdelhady/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" 
+        src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
         id="gh-dark-mode-only" 
      />
   </a>
