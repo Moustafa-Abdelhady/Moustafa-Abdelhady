@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="start">Mostafa-Abdelhady </h3>
+<h3 align="center">Mostafa-Abdelhady </h3>
 
 ###
 
-<p align="start"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> statues :  Aspire to inspire before we expire</p>
+<p align="center"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> statues :  Aspire to inspire before we expire</p>
 
 ###
 
@@ -30,61 +30,68 @@
 </div>
   
   <br/>
-<p align="start">✨ I am Mostafa Abdelhady<br>📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> using Dart language with the wonderful framework Flutter <br> makes mobile applications ,<br> use JavaScript language with the wonderful framework React <br>make web applications <br> and I like to create codes,<br>🎯 always look for everything that is new in the world of technology 🎲, <br>   I like to be the best always ❤️.</p>
+
+<div align="center">
+	
+<p align="start"> - ✨ I am Mostafa Abdelhady<br> - 📚 I work as a Frontend Developer 🧑‍💻[Flutter , React] ,<br> -  using Dart language with the wonderful framework Flutter <br> -  makes mobile applications ,<br> -  use JavaScript language with the wonderful framework React <br> - make web applications <br> and I like to create codes,<br> - 🎯 always look for everything that is new in the world of technology 🎲, <br>  -  I like to be the best always ❤️.</p>
+</div>
 
 ###
 <h2 align="start">🛠️ Languages and Tools :<picture> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=70> </picture>  </h2>
 
 ###
-
-<div align="start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
+<!-- My Tech Profiles -->
+<table align="center">
+  <tr>
+    <td><a href="https://flutter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  /> </a></td>
+    <td><a href="https://flutter.com" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</a></td>
+    <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27sek933" alt="bootstrap" height="60" /> </a></td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="60"/> </a></td>
+    <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="60"/> </a></td>
+    <td><a href="https://dart.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> </a></td>
+    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/2y2l43ab" alt="html5" height="60"/> </a></td>
+    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/27stwn5o" alt="css3" height="60"/> </a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/29qe3jxd" alt="javascript" height="60"/> </a></td>
+    <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://tinyurl.com/26qkcv6f" alt="nextjs" height="60"/> </a></td>
+    <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
+ </a></td>
+  </tr>
+  <tr>
+ <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="nodejs" height="60"/> </a></td>
+    <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://tinyurl.com/29o2nzv9" height="60" alt="vs code logo"> </a></td>
+    <td><a href="https://qwik.dev/" target="_blank"> <img src="https://tinyurl.com/22vhcl72" height="60" alt="qwik js logo"> </a></td>
+    <td><a href="https://tailwindcss.com/" target="_blank"> <img src="https://tinyurl.com/2cvpylag" height="60" alt="tailwind css logo"> </a></td>
+    <td><a href="https://idx.google.com/" target="_blank"> <img src="https://tinyurl.com/23527gns" height="60" alt="google project idx"> </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://redux.js.org/" target="_blank"> <img src="https://tinyurl.com/2y4wrcsk" height="60" alt="redux toolkit"> </a></td>
+    <td><a href="https://www.postman.com/" target="_blank"> <img src="https://tinyurl.com/2bsse2jm" height="60" alt="postman api"> </a></td>
+    <td><a href="https://restfulapi.net/" target="_blank"> <img src="https://tinyurl.com/29tqprt3" height="60" alt="REST API logo "> </a></td>
+    <td><a href="https://restfulapi.net/" target="_blank">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+ </a></td>
+	    <td><a href="https://ui.shadcn.com/" target="_blank">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+ </a></td>
+    <td><a href="https://ui.shadcn.com/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+ </a></td>
+  </tr>
+	<tr>
+		    <td><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://tinyurl.com/2xjue2pq" height="60" alt="typescript"> </a></td>
+    <td><a href="https://ui.shadcn.com/" target="_blank"> <img src="https://tinyurl.com/28qddcpj" height="60" alt="Shadcn UI"> </a></td>
+	</tr>
+</table>
 
 ###
 
-<h2 align="start"> <picture> <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 50px></picture> Social Media  :</h2>
+<h2 align="start"> <picture> <img src="https://media.giphy.com/media/UmbybxMJ3sRvKBV5qw/giphy.gif" width = 50px></picture> 🔥 Social Media  : </h2>
 
 ###
 
-<div align="start">
+<div align="center">
   <a href="https://www.linkedin.com/in/moustafaabdelhady55/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -96,34 +103,79 @@
 
 ###
 
-<p align="start"> 🔥 My Stats :<picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> </p>
+<h2 align="center"> 🔥 My GitHub Higlights : <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> </h2>
 
 ###
-<div align="start">
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moustafa-Abdelhady&langs_count=4&show_icons=true&locale=en&theme=tokyonight" alt="Moustafa-Abdelhady"  width="400px" />
+  </div>
   
+  ###
+  
+  <h2 align="center"> 🔥 My GitHub contributions : <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> </h2>
+  
+###
+<div align="center">
+	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moustafa-Abdelhady&theme=tokyonight_duo" alt="7oSkaaa" /> <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Moustafa-Abdelhady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafa-Abdelhady&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a><br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moustafa-Abdelhady&langs_count=4&show_icons=true&locale=en&theme=tokyonight" alt="Moustafa-Abdelhady"  width="400px" />
+</div>
+
+###
+  <h2 align="center"> 🔥 My GitHub stats : <picture> <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" width=45> </picture> </h2>
+
+  ###
+<div align="center">
+	 <img alt="Moustafa-Abdelhady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Moustafa-Abdelhady&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a><br/>
+ </div>
+ 
+ 
+###
    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </div>
-<br/>
+	<br/>
 
+ ###
+<!-- My contributions with snake game format -->
+<div align="center">
+  <h1 color=" rgb(127,255,0)">🐍 My Contribution Snack! 🍭</h1>
+  
+  <a href="https://raw.githubusercontent.com/Moustafa-Abdelhady/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" target="_blank">
+    <img 
+        alt="github contribution grid snake animation" 
+        width="1200" 
+        src="https://raw.githubusercontent.com/Moustafa-Abdelhady/aniruddhaadak80/output/github-contribution-grid-snake-dark.svg" 
+        id="gh-dark-mode-only" 
+     />
+  </a>
+</div>
+
+###
 
 
 <div align="start">
-  <img height="200" <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Moustafa-Abdelhady}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<br/>
+ <!-- Greeting profile viewers with numbers  -->
+<p align="center">
+  <a align="center" href="">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Moustafa-Abdelhady&label=Thanks+for+visiting"  width=360 height=45 />
+</a>
+</p>
+
+
 </div>
 
 ###
 
 <div align="center">
-  <a  href="https://open.spotify.com/user/you">
-    <img height="200"  src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
+  <a  href="https://open.spotify.com/user/31xtlrvw546f7pza5c4kthx6qnee">
+    <img height="200"  src="https://spotify-recently-played-readme.vercel.app/api?user=31xtlrvw546f7pza5c4kthx6qnee&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ###
